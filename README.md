@@ -45,20 +45,27 @@ To get a local copy up and running, follow these steps.
    ```sh
    git clone https://github.com/your-username/vendorsphere-backend.git
 
-2. python -m venv env
+2. Create Virtual Environment 
+   ```sh
+   python -m venv env
 
 on windows
-.\env\Scripts\activate
+   ```sh
+   .\env\Scripts\activate
 
 3. Install req packages 
-pip install -r requirements.txt
+   ```sh
+   pip install -r requirements.txt
 
 4. Create Database
+   ```sh
    CREATE DATABASE vendorsphere;
 5. Apply Migrations
+   ```sh
    python manage.py migrate
 
 6. Start Server
+   ```sh
    python manage.py runserver
 
 ## Contributing
