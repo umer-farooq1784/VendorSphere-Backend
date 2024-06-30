@@ -27,7 +27,7 @@ VendorSphere is designed to foster seamless collaboration between vendors and re
 - **Backend:** Django
 - **Database:** PostgreSQL
 - **Deployment:** Google Cloud Platform (GCP)
-- **Frontend:** [React (Separate Repository)](link-to-your-frontend-repo)
+- **Frontend:** [React (Separate Repository)](https://github.com/umer-farooq1784/VendorSphere-Frontend/)
 
 ## Getting Started
 
