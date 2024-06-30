@@ -49,7 +49,7 @@ To get a local copy up and running, follow these steps.
    ```sh
    python -m venv env
 
-on windows
+   on windows
    ```sh
    .\env\Scripts\activate
 
